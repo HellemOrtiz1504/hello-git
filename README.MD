@@ -42,6 +42,7 @@ Underline 2
 
 
  # Code Snippers
+ Código JSON
  ```JSON
 [
   {
@@ -66,3 +67,17 @@ Underline 2
   }
 ]
  ```
+
+ # Tablas
+| Nombre | Apellido| Documento |
+|------- | ------- | --------- |
+| Maxi   | Burgos  | 2343656   |
+| Tomás  | Tomson  | 2534643   |
+
+# Citas
+Estos es un texto referente a una cita que pondrémos debajo.
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
+
