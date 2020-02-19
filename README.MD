@@ -1,3 +1,4 @@
+# Cabeceras
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -6,13 +7,13 @@
 ###### Cabecrea 
 
 
-
+# Underlines
 Underline 1
 -----------
 Underline 2
 ===========
 
-
+# Formato de Enfásis
 - Formato *Italica* de la primer forma.
 - Formato _Italica_ de la segunda forma.
 - Formato **Bold o Strong** de la primer forma.
@@ -20,3 +21,12 @@ Underline 2
 - Formato ~~Tachado~~.
 - Aquí podemos usar formato *italico*, pero tambien **bold** y ~~tachado~~.
 
+
+# Listas
+1. Esto es un item ordenado.
+2. Esto es un item ordenado.
+3. Esto es un item ordenado.
+
+- Esto es un item desordenado.
+- Esto es un item desordenado.
+- Esto es un item desordenado.
