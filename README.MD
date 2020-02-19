@@ -30,3 +30,12 @@ Underline 2
 - Esto es un item desordenado.
 - Esto es un item desordenado.
 - Esto es un item desordenado.
+
+# Links
+ - <a href="https://google.com">Esto es un link en HTML</a>
+ - [Esto en un link en Markdown](https://ww.google.com)
+ - [Esto en un link al index](index.html)
+
+
+ # Imagenes
+ ![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
